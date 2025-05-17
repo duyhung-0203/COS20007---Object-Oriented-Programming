@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hZ+sjG5aCg/efdkQzpBCGiCG6qk1la2P0vib6FylmfNJ1mP+Yp9lz3sr9VmbNS1wxbqv2zo8m9g7M4rtGd1fEw==",
+  "success": true,
+  "projectFilePath": "G:\\Duy Hung\\cos20007\\Classic Snakes Game (2)\\Classic Snakes Game\\Classic Snakes Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
