@@ -1,0 +1,4 @@
+G:\Duy Hung\cos20007\flappybird\obj\Debug\net7.0\flappybird.GeneratedMSBuildEditorConfig.editorconfig
+G:\Duy Hung\cos20007\flappybird\obj\Debug\net7.0\flappybird.AssemblyInfoInputs.cache
+G:\Duy Hung\cos20007\flappybird\obj\Debug\net7.0\flappybird.AssemblyInfo.cs
+G:\Duy Hung\cos20007\flappybird\obj\Debug\net7.0\flappybird.csproj.CoreCompileInputs.cache
